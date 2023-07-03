@@ -1,0 +1,19 @@
+# React Projects
+
+> this repo contains all the react projects made as a part of React series live on [YouTube](https://www.youtube.com/channel/UCOr2tU9paYaosUIz0IH7MHg) & [opendevs.in](https://opendevs.in/)
+
+## 🚀 Project List
+
+- [Employee Management System - React Basics Project](https://www.youtube.com/watch?v=koXRuZKsCJw&t=1s)
+
+- [E-Commerce Webapp - React Intermediate Project](https://youtu.be/x6vlHU-Gc40)
+
+- [Library Management System - React Final Project](https://youtu.be/G52wohlgdxY)
+
+- [Build a Crypto Dashboard using React Redux TypeScript - Webinar](https://youtu.be/oU97KvXFqvo)
+
+- React Sidebar (Contributed by: [Ankit Kanyal](https://www.linkedin.com/in/ankit-kanyal-43460b169))
+
+## ✨ Show your support
+
+Give a ⭐️ if these projects helped you!

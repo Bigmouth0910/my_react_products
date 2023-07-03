@@ -1,0 +1,11 @@
+- Vite + React + TS [template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts)
+- Teacher: [Bonnie Schulkin](https://www.udemy.com/user/bonnie-schulkin)
+- The assignments:
+  - [page for individual employee](https://github.com/manning-lp/costinEEST-implement-page-for-individual-employee-lp)
+  - [employee search](https://github.com/manning-lp/costinEEST-implement-employee-search-lp)
+  - [indicate reach query states in the UI](https://github.com/manning-lp/costinEEST-indicate-reach-query-states-in-the-ui-lp)
+- The server lives at [`localhost:3030`](https://github.com/manning-lp/costinEEST-implement-page-for-individual-employee-lp/tree/main/server)
+- Run the Vite dev server on a [custom](https://koenwoortman.com/vitejs-run-dev-server-on-different-port) port (`npm run dev -- --port 3000`)
+- [`useDebounce`](https://usehooks-ts.com/react-hook/use-debounce) hook
+- [Debounced](https://dev.to/arnonate/debouncing-react-query-with-hooks-2ek6) and Typesafe React Query with Hooks
+- Make the CSS spinner [sticky](https://stackoverflow.com/a/6256124/1904223)
